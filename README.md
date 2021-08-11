@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HanishValecha-0101
+- 👋 Hi, I’m Hanish Valecha
 - 👀 I’m interested in building websites and learning new technologies involved in doin that and I also love solving Problems .
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on ...
